@@ -1,0 +1,1 @@
+# ia-semana2-prolog
